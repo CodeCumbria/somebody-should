@@ -9,9 +9,11 @@ There isn't any source code for this repo, we're just using this to track issues
 
 If the project you're reporting the issue under has got source code, for example, the Slack Invite https://github.com/CodeCumbria/slack-invite then raise the issue there instead.
 
-Anyone can create new issues.  Similarly, anyone is allowed to do the work to fix them :-)
+Anyone can create new issues.  Similarly, anyone is allowed to do the work to fix them 
 
-We are tracking this repository in HuBoard, at https://huboard.com/DoESliverpool/somebody-should. Here, you'll find all the issues handily organised into three categories - Sustain, Needs, and Wants - according to urgency. 
+---
+
+You'll find all the issues handily organised into three categories - Sustain, Needs, and Wants - according to urgency. 
 
  * [Sustain](https://github.com/CodeCumbria/somebody-should/labels/1%20-%20Sustain) is for issues related to the ongoing sustainability of DoES, and the things we can do to help increase visibility 
  * [Needs](https://github.com/CodeCumbria/somebody-should/labels/2%20-%20Needs) is for issues that need to be dealt with and closed as soon as possible 
