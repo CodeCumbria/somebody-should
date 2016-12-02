@@ -11,11 +11,11 @@ If the project you're reporting the issue under has got source code, for example
 
 Anyone can create new issues.  Similarly, anyone is allowed to do the work to fix them :-)
 
-We are tracking this repository in HuBoard, at https://huboard.com/DoESliverpool/somebody-should. Here, you'll find all the issues handily organised into three categories - You're All I Need To Get By, The Time Is Now and Wouldn't It Be Nice - according to urgency. 
+We are tracking this repository in HuBoard, at https://huboard.com/DoESliverpool/somebody-should. Here, you'll find all the issues handily organised into three categories - Sustain, Needs, and Wants - according to urgency. 
 
- * [You're All I Need To Get By](https://github.com/CodeCumbria/somebody-should/labels/1%20-%20You%27re%20all%20I%20need%20to%20get%20by) is for issues related to the ongoing sustainability of DoES, and the things we can do to help increase visibility 
- * [The Time Is Now](https://github.com/CodeCumbria/somebody-should/labels/2%20-%20The%20time%20is%20now) is for issues that need to be dealt with and closed as soon as possible 
- * [Wouldn't It Be Nice](https://github.com/CodeCumbria/somebody-should/labels/3%20-%20Wouldn%27t%20it%20be%20nice) is where things go when they would be a good addition to DoES, but aren't affecting anything too much by not being in place yet
+ * [Sustain](https://github.com/CodeCumbria/somebody-should/labels/1%20-%20Sustain) is for issues related to the ongoing sustainability of DoES, and the things we can do to help increase visibility 
+ * [Needs](https://github.com/CodeCumbria/somebody-should/labels/2%20-%20Needs) is for issues that need to be dealt with and closed as soon as possible 
+ * [Wants](https://github.com/CodeCumbria/somebody-should/labels/3%20-%20Wants) is where things go when they would be a good addition to DoES, but aren't affecting anything too much by not being in place yet
 
 If you feel like you have the ability and time to take lead on any issue, just let us know.  Better still, if the issue doesn't have anyone assigned, assign it to yourself and get on with it :-)
 
