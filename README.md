@@ -15,9 +15,9 @@ Anyone can create new issues.  Similarly, anyone is allowed to do the work to fi
 
 You'll find all the issues handily organised into three categories - Sustain, Needs, and Wants - according to urgency. 
 
- * [Sustain](https://github.com/CodeCumbria/somebody-should/labels/1%20-%20Sustain) is for issues related to the ongoing sustainability of DoES, and the things we can do to help increase visibility 
+ * [Sustain](https://github.com/CodeCumbria/somebody-should/labels/1%20-%20Sustain) is for issues related to the ongoing sustainability of Code Cumbria, and the things we can do to help increase visibility 
  * [Needs](https://github.com/CodeCumbria/somebody-should/labels/2%20-%20Needs) is for issues that need to be dealt with and closed as soon as possible 
- * [Wants](https://github.com/CodeCumbria/somebody-should/labels/3%20-%20Wants) is where things go when they would be a good addition to DoES, but aren't affecting anything too much by not being in place yet
+ * [Wants](https://github.com/CodeCumbria/somebody-should/labels/3%20-%20Wants) is where things go when they would be a good addition to Code Cumbria, but aren't affecting anything too much by not being in place yet
 
 If you feel like you have the ability and time to take lead on any issue, just let us know.  Better still, if the issue doesn't have anyone assigned, assign it to yourself and get on with it :-)
 
