@@ -7,7 +7,7 @@ A place to collect issues/suggestions/to-do items for Code Cumbria
 
 There isn't any source code for this repo, we're just using this to track issues.
 
-If the project you're reporting the issue under has got source code, for example, the [Slack Invite](https://github.com/CodeCumbria/slack-invite-automation) then raise the issue there instead.
+If the project you're reporting the issue under has got source code then raise the issue there instead.
 
 Anyone can create new issues.  Similarly, anyone is allowed to do the work to fix them 
 
